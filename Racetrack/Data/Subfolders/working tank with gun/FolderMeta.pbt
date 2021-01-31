@@ -1,0 +1,111 @@
+MetaVersion: 1
+MarketplaceDetails {
+  Id: "9b71e20177714ad6b156deb0f8a5fc14"
+  OwnerAccountId: "86861ac1866f49c3af1de1870f20c5e0"
+  OwnerName: "mangoboy"
+  Version: "1.0.0"
+}
+AssetIdsOriginalToNew {
+  key: 307406115803496087
+  value: 18440799571954594112
+}
+AssetIdsOriginalToNew {
+  key: 387318351397919408
+  value: 11046634477601616580
+}
+AssetIdsOriginalToNew {
+  key: 440168262593430639
+  value: 16644121621411095829
+}
+AssetIdsOriginalToNew {
+  key: 574176949926633581
+  value: 8699619123897277841
+}
+AssetIdsOriginalToNew {
+  key: 1683114021203363022
+  value: 14953127057809681797
+}
+AssetIdsOriginalToNew {
+  key: 2472577150731722024
+  value: 9488153037163280622
+}
+AssetIdsOriginalToNew {
+  key: 4750143169640724134
+  value: 1129247227082959494
+}
+AssetIdsOriginalToNew {
+  key: 5508240673830166310
+  value: 14499630510298825784
+}
+AssetIdsOriginalToNew {
+  key: 5742588060892903902
+  value: 1856335341144745256
+}
+AssetIdsOriginalToNew {
+  key: 6207169131607382085
+  value: 17816968128424554352
+}
+AssetIdsOriginalToNew {
+  key: 6652974207271369531
+  value: 17308284836956724756
+}
+AssetIdsOriginalToNew {
+  key: 6795206535065158887
+  value: 1575173340612505216
+}
+AssetIdsOriginalToNew {
+  key: 8163343952479535019
+  value: 17451008241713803414
+}
+AssetIdsOriginalToNew {
+  key: 8459825612529451237
+  value: 13356975543634281016
+}
+AssetIdsOriginalToNew {
+  key: 8811842729537209671
+  value: 3496110074074580138
+}
+AssetIdsOriginalToNew {
+  key: 9654009968499969690
+  value: 1943121599330627131
+}
+AssetIdsOriginalToNew {
+  key: 10165321348405814113
+  value: 6597173507782027114
+}
+AssetIdsOriginalToNew {
+  key: 10567197058210724102
+  value: 11040116344408000735
+}
+AssetIdsOriginalToNew {
+  key: 10684044637599087934
+  value: 1571199396591915115
+}
+AssetIdsOriginalToNew {
+  key: 10948153152124094650
+  value: 1816886040129606499
+}
+AssetIdsOriginalToNew {
+  key: 16064653477604779480
+  value: 16272866163991749617
+}
+AssetIdsOriginalToNew {
+  key: 16152866228075133296
+  value: 10313156189975387205
+}
+AssetIdsOriginalToNew {
+  key: 16975801195317677333
+  value: 6304546609438559003
+}
+AssetIdsOriginalToNew {
+  key: 17103588375713329285
+  value: 8807418463028044095
+}
+AssetIdsOriginalToNew {
+  key: 17169051963161242240
+  value: 13288144226331210377
+}
+AssetIdsOriginalToNew {
+  key: 18403044146386498216
+  value: 5792832428940669744
+}

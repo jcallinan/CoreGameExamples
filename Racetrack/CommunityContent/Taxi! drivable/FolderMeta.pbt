@@ -1,0 +1,95 @@
+MetaVersion: 1
+MarketplaceDetails {
+  Id: "4e8ede31c90f4e99b5224964ab107d81"
+  OwnerAccountId: "3c8ba0701b9e4c6b9a44ea8f5658967b"
+  OwnerName: "REDSQUIRREL"
+  Version: "1.0.0"
+}
+AssetIdsOriginalToNew {
+  key: 746235664050194430
+  value: 11830056803471050207
+}
+AssetIdsOriginalToNew {
+  key: 1576417570327795626
+  value: 6253308842018005069
+}
+AssetIdsOriginalToNew {
+  key: 1750662743193815620
+  value: 12653393736057341643
+}
+AssetIdsOriginalToNew {
+  key: 1932855984767917981
+  value: 6298091512772689909
+}
+AssetIdsOriginalToNew {
+  key: 2194930983580527578
+  value: 7597615773568309620
+}
+AssetIdsOriginalToNew {
+  key: 3468378373674557675
+  value: 16899960967292063421
+}
+AssetIdsOriginalToNew {
+  key: 4026018372678454847
+  value: 17284302671636089596
+}
+AssetIdsOriginalToNew {
+  key: 4259265763540183356
+  value: 851690974707344617
+}
+AssetIdsOriginalToNew {
+  key: 5515478898414773339
+  value: 9615528332987894990
+}
+AssetIdsOriginalToNew {
+  key: 6420119162807815674
+  value: 3395782163753132876
+}
+AssetIdsOriginalToNew {
+  key: 6677696242022473725
+  value: 11275014072039145717
+}
+AssetIdsOriginalToNew {
+  key: 7339137817541979325
+  value: 1383481486094588001
+}
+AssetIdsOriginalToNew {
+  key: 7538299894155419267
+  value: 12367273502211456186
+}
+AssetIdsOriginalToNew {
+  key: 8500358883979738683
+  value: 6885564785082974399
+}
+AssetIdsOriginalToNew {
+  key: 9773771119782818375
+  value: 2863196469999765240
+}
+AssetIdsOriginalToNew {
+  key: 10056900427533254572
+  value: 2912972466834860392
+}
+AssetIdsOriginalToNew {
+  key: 10622993542363925486
+  value: 14921286619939107689
+}
+AssetIdsOriginalToNew {
+  key: 11977873594744981823
+  value: 11740407324366347464
+}
+AssetIdsOriginalToNew {
+  key: 12107158828519858560
+  value: 13507290233071306850
+}
+AssetIdsOriginalToNew {
+  key: 12666458156216254907
+  value: 11572766390218800303
+}
+AssetIdsOriginalToNew {
+  key: 15400771070336998944
+  value: 3489601513215868153
+}
+AssetIdsOriginalToNew {
+  key: 18160059751644839073
+  value: 4187397831440432574
+}
